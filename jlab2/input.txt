@@ -1,0 +1,10 @@
+United States	45785090	19.8	14.3
+Russia	11048064	4.8	7.7
+Germany	9845244	4.3	11.9
+Saudi Arabia	9060433	3.9	31.4
+United Arab Emirates	7826981	3.4	83.7
+United Kingdom	7824131	3.4	12.4
+France	7439086	3.2	11.6
+Canada	7284069	3.1	20.7
+Australia	6468640	2.8	27.7
+Spain	6466605	2.8	13.8
